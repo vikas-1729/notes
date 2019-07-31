@@ -1,0 +1,59 @@
+.submit{background-color:#7FFF00;border :1px solid-black;float:right;}
+#log{ display:inline-block;width:60px;height:20px;
+     border :1px solid black;float:right;position:relative;
+      margin-left:10px;padding:3px 3px 3px 3px;
+      }
+#sign_in{position:relative;
+         display:inline-block;
+         background-color:light-blue;
+         height:20px;widht:100px; 
+         
+       }
+.a{display:inline-block;
+   height:40px;
+   width:230px;
+   margin-radius:2px;
+   font-family:Arial,Impact;
+   font-size:20px;
+   
+   
+
+  }
+.b{display:inline-block;
+   height:40px;
+   width:230px;
+   margin-radius:2px;
+   font-family:Arial,Impact;
+   font-size:20px;
+   
+}
+ 
+ #a1
+  {display:inline-block;
+  border:2px solid-black;
+}
+#fieldset1
+  {display:inline-block;
+   background-color:#fff4e1;
+  border-radius :2px; border:2px solid black;
+  position:relative;
+  margin-left:50px;margin-top:50px;
+}
+#fieldset2
+{display:inline-block;
+  border-radius:2px; border:2px solid black;
+  background-color:#dddddd;
+   float:right;
+   margin-top:50px;
+  margin-right:50px;
+}
+
+a:hover{
+      background-color:#D3D3D3;
+}
+#faculty
+{ display:inline-block;border-radius:2px; border:2px solid black;height:150px;width:250px;background-color:aquamarinef;
+text-align:center;margin-left:634.475px;}
+
+
+

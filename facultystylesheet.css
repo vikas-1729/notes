@@ -1,0 +1,13 @@
+#a{
+    display:inline-table;left-margin:20px;
+    background-color:red;height:50px;width:426px;
+text_align:center;
+}#b
+{display:inline-table;
+   height:50px;width:426px; background-color:white;
+        text_align:center;
+}
+#c
+{display:inline-table;
+text_align:center;   height:50px;width:426px; background-color:yellow;
+}
